@@ -94,7 +94,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "SecurityLaboratory");
+    strcpy(msg, "MOHAN");
 
     printf("Simulation of Hill Cipher\n");
     printf("Input message : %s\n", msg);
@@ -134,7 +134,8 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="442" height="182" alt="image" src="https://github.com/user-attachments/assets/64480e7c-25c1-482b-adfb-0dc764f56674" />
+<img width="397" height="151" alt="image" src="https://github.com/user-attachments/assets/01f9771b-b4f8-4223-9e22-ef3e5699a351" />
+
 
 ## RESULT
  A C program to implement the hill cipher substitution techniques is done
